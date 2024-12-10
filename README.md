@@ -6,7 +6,7 @@
   <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
 </h3>
 <p align="center">
-  <a href="https://github.com/CodeWhiteWeb/CodeWhiteWeb"><img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&lines=Hi+%2C+Welcome+to+my+Github+page;Name+Reveal+-->+Muhammad+Usman;I+Love+Python+Programming;A+Tech++Enthusiast;Learning+Data+Science+And+A.I;Converts+Data+Into+Insightful+Way;A+Problem+Solver;"></a>
+  <a href="https://github.com/CodeWhiteWeb/CodeWhiteWeb"><img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&lines=Hi+%2C+Welcome+to+my+Github+page;Name+Reveal+-->+Mazhar+Shehzad;I+Love+Python+Programming;A+Tech++Enthusiast;Learning+Data+Science+And+A.I;Converts+Data+Into+Insightful+Way;A+Problem+Solver;"></a>
 </p>
 
 
